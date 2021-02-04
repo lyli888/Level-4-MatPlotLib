@@ -1,0 +1,5 @@
+Conclusions: 
+
+1. Capomulin is overall a very effective drug regimen-looking at average tumor volume across all mice across the timepoints (2nd to last graph), there is a clear, consistent, and sharp reduction in tumor volume over time.
+2. This study's subjects are about 50:50 male:female mice, which is good experimental design to make sure gender does not have an undue effect on the outcome of the data.
+3. The boxplot (3rd from the bottom) also proves the effectiveness of Capomulin, as well as Ramicane-the 2 most effective treatments that have the lowest average final tumor volume across all mice.
